@@ -18,3 +18,4 @@ game.state.add('play', Play);
 
 game.state.start('boot');
 var game = new Phaser.Game(conf);
+var game2 = new Phaser.Game(conf);
