@@ -20,3 +20,4 @@ game.state.start('boot');
 var game = new Phaser.Game(conf);
 var game2 = new Phaser.Game(conf);
 var master1 = new Phaser.Game(conf);
+var master2 = new Phaser.Game(conf);
