@@ -17,3 +17,4 @@ game.state.add('menu', Menu);
 game.state.add('play', Play);
 
 game.state.start('boot');
+var game = new Phaser.Game(conf);
