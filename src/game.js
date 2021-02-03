@@ -4,7 +4,6 @@ var conf = {
     renderer: Phaser.AUTO,
     parent: 'game',
     transparent: false,
-    antialias: false,
     state: this,
     scaleMode: Phaser.ScaleManager.RESIZE
 };
